@@ -1,0 +1,6 @@
+Lighthouse Shoes
+================
+
+A simple Shoes app to display your outstanding LighthouseApp tickets. 
+
+NOTE: Make sure you change the __MY_LIGHTHOUSE_USERNAME__ and __MY_LIGHTHOUSE_TOKEN__ in tickets.rb before running it in Shoes.
