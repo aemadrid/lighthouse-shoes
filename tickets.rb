@@ -23,7 +23,7 @@ Shoes.app :title => "Tickets", :width => 150, :height => 500, :resizable => true
   
   @title_stack = stack do
     background black
-    @subtitle = para("My Company", :stroke => "#eee", :margin_top => 8, :margin_left => 17, :margin_bottom => 0, :size => 8)
+    @subtitle = para("Acme Inc.", :stroke => "#eee", :margin_top => 8, :margin_left => 17, :margin_bottom => 0, :size => 8)
     @title = title("Tickets", :stroke => white, :margin => 4, :margin_left => 14, :margin_top => 0, :weight => "bold", :size => 24)
     background "rgb(66, 66, 66, 180)".."rgb(0, 0, 0, 0)", :height => 0.7
     background "rgb(66, 66, 66, 100)".."rgb(255, 255, 255, 0)", :height => 10, :bottom => 0
